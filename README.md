@@ -30,12 +30,10 @@ Here are some ideas to get you started:
 
 ##### Connect with me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.ridll?igsh=MW9nNXVpNHYzc2cxbg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maulana-ridlo-billah-a3b370380) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@maul_rb)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.ridll/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maulana-ridlo-billah-a3b370380) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@maul_rb)
 
 
 ##### My Github Stats
 ![Maulana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maulanard&show_icons=true&theme=merko)
 
 <img src="https://raw.githubusercontent.com/Maulanard/Maulanard/output/snake.svg" alt="Snake animation" />
-
-###
